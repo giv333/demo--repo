@@ -1,8 +1,6 @@
-# Demo
+# include < iostream >
 
-Some description!
+int main() {
 
-## Subheader
-
-
-Watch tutorial on YouTube
+        std:cout <<"Hello Debo people, this is my repo";
+        return 0,
